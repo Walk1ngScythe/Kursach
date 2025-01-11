@@ -1,0 +1,78 @@
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test subd.csproj.AssemblyReference.cache
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test subd.csproj.SuggestedBindingRedirects.cache
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test_subd.Properties.Resources.resources
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test subd.csproj.GenerateResource.cache
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test subd.csproj.CoreCompileInputs.cache
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\bin\Debug\test subd.exe.config
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\bin\Debug\test subd.exe
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\bin\Debug\test subd.pdb
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test_subd.frmAuthorization.resources
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test subd.exe
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test subd.pdb
+C:\Users\it-student.MEPHI3\source\repos\test subd\test subd\obj\Debug\test_subd.Form2.resources
+E:\test subd\test subd\bin\Debug\test subd.exe.config
+E:\test subd\test subd\bin\Debug\test subd.exe
+E:\test subd\test subd\bin\Debug\test subd.pdb
+E:\test subd\test subd\obj\Debug\test subd.csproj.AssemblyReference.cache
+E:\test subd\test subd\obj\Debug\test subd.csproj.SuggestedBindingRedirects.cache
+E:\test subd\test subd\obj\Debug\test_subd.frmAuthorization.resources
+E:\test subd\test subd\obj\Debug\test_subd.Form2.resources
+E:\test subd\test subd\obj\Debug\test_subd.Properties.Resources.resources
+E:\test subd\test subd\obj\Debug\test subd.csproj.GenerateResource.cache
+E:\test subd\test subd\obj\Debug\test subd.csproj.CoreCompileInputs.cache
+E:\test subd\test subd\obj\Debug\test subd.exe
+E:\test subd\test subd\obj\Debug\test subd.pdb
+D:\test subd\test subd\obj\Debug\test subd.csproj.AssemblyReference.cache
+D:\test subd\test subd\obj\Debug\test subd.csproj.SuggestedBindingRedirects.cache
+D:\test subd\test subd\obj\Debug\test_subd.frmAuthorization.resources
+D:\test subd\test subd\obj\Debug\test_subd.Form2.resources
+D:\test subd\test subd\obj\Debug\test_subd.Form3.resources
+D:\test subd\test subd\obj\Debug\test_subd.Properties.Resources.resources
+D:\test subd\test subd\obj\Debug\test subd.csproj.GenerateResource.cache
+D:\test subd\test subd\obj\Debug\test subd.csproj.CoreCompileInputs.cache
+D:\test subd\test subd\obj\Debug\test subd.exe
+D:\test subd\test subd\obj\Debug\test subd.pdb
+D:\test subd\test subd\bin\Debug\test subd.exe.config
+D:\test subd\test subd\bin\Debug\test subd.exe
+D:\test subd\test subd\bin\Debug\test subd.pdb
+E:\test subd omg it worked\test subd\obj\Debug\test subd.csproj.AssemblyReference.cache
+E:\test subd omg it worked\test subd\obj\Debug\test subd.csproj.SuggestedBindingRedirects.cache
+E:\test subd omg it worked\test subd\obj\Debug\test_subd.frmAuthorization.resources
+E:\test subd omg it worked\test subd\obj\Debug\test_subd.Form2.resources
+E:\test subd omg it worked\test subd\obj\Debug\test_subd.Form3.resources
+E:\test subd omg it worked\test subd\obj\Debug\test_subd.Properties.Resources.resources
+E:\test subd omg it worked\test subd\obj\Debug\test subd.csproj.GenerateResource.cache
+E:\test subd omg it worked\test subd\obj\Debug\test subd.csproj.CoreCompileInputs.cache
+E:\test subd omg it worked\test subd\obj\Debug\test subd.exe
+E:\test subd omg it worked\test subd\obj\Debug\test subd.pdb
+E:\test subd omg it worked\test subd\bin\Debug\test subd.exe.config
+E:\test subd omg it worked\test subd\bin\Debug\test subd.exe
+E:\test subd omg it worked\test subd\bin\Debug\test subd.pdb
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\bin\Debug\test subd.exe.config
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\bin\Debug\test subd.exe
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\bin\Debug\test subd.pdb
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test subd.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test_subd.frmAuthorization.resources
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test_subd.Form2.resources
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test_subd.Form3.resources
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test_subd.Properties.Resources.resources
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test subd.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test subd.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test subd.exe
+C:\Users\david\OneDrive\Рабочий стол\test subd omg it worked\test subd\obj\Debug\test subd.pdb
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test subd.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test_subd.frmAuthorization.resources
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test_subd.Properties.Resources.resources
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test subd.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test subd.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test subd.exe
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test subd.pdb
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\bin\Debug\test subd.exe.config
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\bin\Debug\test subd.exe
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\bin\Debug\test subd.pdb
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test_subd.Redactor.resources
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test_subd.CustomerForm.resources
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test_subd.FormAdmin.resources
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test_subd.FormAddition.resources
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test_subd.MyOrders.resources
+C:\Users\david\OneDrive\Рабочий стол\Документы\test subd omg it worked\test subd\obj\Debug\test_subd.NewOrder.resources
